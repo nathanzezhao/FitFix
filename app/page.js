@@ -10,6 +10,7 @@ export default function Landing() {
           <span className="text-sm font-medium tracking-tight">FitFix</span>
         </div>
         <nav className="flex items-center gap-5 text-sm text-ink/70">
+          <Link href="/season" className="hover:text-ink">Season</Link>
           <Link href="/closet" className="hover:text-ink">Closet</Link>
           <Link href="/scheduler" className="hover:text-ink">Week</Link>
         </nav>
