@@ -1,8 +1,8 @@
 # FitFix
 
-A prototype: answer a quiz → optionally confirm your palette with a selfie → get 3–5 personalized outfits → plan your week.
+A prototype: answer a quiz - take a face scan - see suggested outfits off of stored catalog - plan your week using your own closet. 
 
-This is a **single-app Next.js prototype**. No backend, no database — all state lives in React Context and resets on refresh. The catalog is a hand-curated JSON (`lib/catalog.js`) with ~30 items across three tiers (Uniqlo/Muji/COS basics → Zara/COS/Arket → SSENSE/Lemaire/Our Legacy).
+This is a **single-app Next.js prototype**. No backend, no database — all state lives in React Context and resets on refresh. The catalog is a hand-curated JSON (`lib/catalog.js`) with 84 items, 39 brands across three tiers (Uniqlo/Muji/COS basics → Zara/COS/Arket → SSENSE/Lemaire/Our Legacy).
 
 ## Run it
 
